@@ -1,0 +1,16 @@
+body
+{
+	background: linear-gradient(45deg, #5a12e4 10%, #52d8e8 70%);
+}
+
+.bg-card
+{
+	background-color: #72abde;
+}
+
+.font-kalam
+{
+	font-family: 'Kalam', cursive;
+	font-size: xx-large;
+	color: black;
+}
